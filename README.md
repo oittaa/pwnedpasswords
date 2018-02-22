@@ -1,5 +1,7 @@
 # PwnedPasswords
 
+[![Build Status](https://travis-ci.org/oittaa/pwnedpasswords.svg)](https://travis-ci.org/oittaa/pwnedpasswords)
+
 This script uses the pwnedpasswords.com v2 API to check your password in a secure way.
 
 https://en.wikipedia.org/wiki/K-anonymity
